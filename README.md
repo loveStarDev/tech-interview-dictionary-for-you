@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=300&section=header&text=SSAIGN&fontSize=90&fontAlignY=35&desc=함께%20하는%20CS%20Study!%20당신을%20위한%20인터뷰%20대백과사전&descAlignY=60)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=300&section=header&text=SSAIGN&fontSize=90&fontAlignY=35&desc=함께%20하는%20CS%20Study!%20당신을%20위한%20인터뷰%20대백과사전&descAlignY=60)
   
 </div>
  
