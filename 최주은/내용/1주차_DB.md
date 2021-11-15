@@ -52,7 +52,11 @@ NoSQL이 무엇의 약자인지는 사람에 따라 No SQL, Not Only SQL, Non-Re
  - 스카마가 정해져 있지 않아, 데이터에대한 규격화가 되어있지 않음.
  - DATA를 UPDATE하는데 비교적 느림.
 
-![image](https://user-images.githubusercontent.com/48270975/141768449-2de516ea-f520-4180-aff6-bb424011d25f.png)
+<table>
+ <td> <img src="https://user-images.githubusercontent.com/48270975/141768449-2de516ea-f520-4180-aff6-bb424011d25f.png" alt="drawing" width="550"/> </td>
+ <td> <img src="https://user-images.githubusercontent.com/48270975/141768955-ddfd1368-410f-41ad-b88b-4a9110b871cd.png" alt="drawing" width="650"/> </td>
+</table>
+
 
 
 ## 🏷 RDBMS와 NoSQL의 속성    
